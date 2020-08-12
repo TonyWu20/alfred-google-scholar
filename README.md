@@ -4,6 +4,7 @@
 
 1. Display the first page results of google scholar.
 2. Connect with the [alfred-download-url-from-scihub-workflow](https://github.com/TonyWu20/alfred-download-url-from-scihub-workflow), so you can directly access to the paper you want.
+   ![gif](demo.gif)
 
 ## Requirements
 
